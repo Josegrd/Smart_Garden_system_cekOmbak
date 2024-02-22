@@ -1,0 +1,8 @@
+/home/select/Desktop/final/oop2/main.py:1017: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(i, GPIO.OUT)
+/home/select/Desktop/final/oop2/main.py:1019: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.pin_relay_pompa, GPIO.OUT)  # Relay untuk pompa
+/home/select/Desktop/final/oop2/main.py:1020: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.pin_relay_lampu, GPIO.OUT)  # Relay untuk sistem penerangan
+/home/select/Desktop/final/oop2/main.py:1021: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.pin_relay_indicator, GPIO.OUT)  # Relay untuk lampu indikator
